@@ -7,4 +7,4 @@ python-dotenv
 langgraph
 streamlit
 PyPDF2
-sklearn
+scikit-learn
